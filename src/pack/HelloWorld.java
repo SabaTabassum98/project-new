@@ -1,6 +1,6 @@
 package pack;
 
-public class HelloSaba {
+public class HelloWorld {
 
 	public static void main(String[] args) {
 		
